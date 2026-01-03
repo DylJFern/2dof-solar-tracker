@@ -33,7 +33,7 @@ The circuit consisted of a connection between the stepper motor and a 4-phase st
 ![Figure 2: Front view of 2-DOF solar panel tracking system](images/setup_front_view.jpg)
 ![Figure 3: Top view of 2-DOF solar panel tracking system](images/setup_top_view.jpg)
 
-A sample video showcasing the result can be found [here](https://drive.google.com/file/d/1J0Y9WaO4R7ycdcR4fgk4VDwXFohfOkpg/view?usp=drive_link).
+A sample video showcasing the result can be found [here](https://youtu.be/wLdPKFJFPvs).
 
 ### Program Flowchart
 ![Figure 4: Process flow diagram](images/program_flowchart.png)
